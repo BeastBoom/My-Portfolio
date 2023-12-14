@@ -1,0 +1,12 @@
+@media only screen and (max-width: 460px) {
+    .nav ul{
+        display:none;
+    }
+    .nav p{
+        display:block;
+        font-size: 12px;
+        padding-left: 15px;
+        font-weight: 700;
+    }
+    footer{display: inline-block}
+}

@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: magenta;
+    font-size: 50px;
+}
+.all{
+    text-align: center;
+    margin:auto;
+    width:300px;
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 1px;
+    text-decoration-style: dotted;
+}
+fieldset{
+    border: 1px solid magenta;
+    background-color: rgba(50, 205, 50, 0.6);
+}
+.center{
+    text-align: center;
+}
+.center:hover{
+    border: 3px solid grey;
+    background-color: rgba(220,220,220);
+}
+.center:focus{
+    background-color: pink;
+}
+body{
+    background-image: url(https://rb.gy/4znb95);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgc{
+    text-align: center;
+}
